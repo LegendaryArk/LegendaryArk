@@ -11,8 +11,7 @@ Mechatronics @ UWaterloo. I make robots do things, and (usually) the things I me
 - 🏆 **6 years of VEX**: wrote ArkLib, a C++ motion control library. Five straight trips to Worlds, plus Create and Think awards
 - 🧪 **Lately**: Signapse (clinical ASL translator), Redact (blurs faces in video), AutoFleet (robots that plan around each other), and Signal (an LLM agent simulator)
 
-## Stack
-`C++` `Python` `TypeScript` `Dart` `ROS2` `STM32` `Flutter` `FastAPI` `OpenCV` `Docker` `Claude API`
+**Stack**&ensp;`C++` `Python` `TypeScript` `Dart` `ROS2` `STM32` `Flutter` `FastAPI` `OpenCV` `Docker` `Claude API`
 
 🌐 [sunnoah.ca](https://sunnoah.ca) · 💬 [LinkedIn](https://linkedin.com/in/sunnoah)
 
