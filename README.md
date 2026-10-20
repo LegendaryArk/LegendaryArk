@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Noah 👋
+ 
+Mechatronics @ UWaterloo. I make robots do things, and (usually) the things I meant them to do.
+ 
+## What I've been up to
+ 
+- 🛩️ **Embedded flight software @ [UWARG](https://github.com/UWARG)**: Developing firmware drivers to make drones fly
+- 🤖 **Perception @ [WATonomous](https://github.com/WATonomous)**: Writing perception ROS2 code for humanoid robots
+- 💼 **Full stack @ Thames Valley Financial**: Building full stack stuff for an fintech insurance company
+- 📱 **Co-founded [elapse](https://github.com/elapse-app/elapse)**: Deployed an app used by Vex robotics team 
+- 🏆 **6 years of VEX**: wrote ArkLib, a C++ motion control library. Five straight trips to Worlds, plus Create and Think awards
+- 🧪 **Lately**: Redact (blurs faces in video), AutoFleet (robots that plan around each other), and Signal (an LLM agent simulator)
 
-<!--
-**LegendaryArk/LegendaryArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stack**
+`C++` `Python` `TypeScript` `Dart` `ROS2` `STM32` `Flutter` `FastAPI` `OpenCV` `Docker` `Claude API`
 
-Here are some ideas to get you started:
+🌐 [sunnoah.ca](https://sunnoah.ca) · 💬 [LinkedIn](https://linkedin.com/in/sunnoah)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Currently debugging something. Probably the wiring.*
