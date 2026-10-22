@@ -8,8 +8,9 @@ Mechatronics @ UWaterloo. I make robots do things, and (usually) the things I me
 - 🤖 **Perception @ [WATonomous](https://github.com/WATonomous)**: Writing ROS2 code for humanoid robots so they can see
 - 💼 **Full stack @ Thames Valley Financial**: Building full stack stuff for an fintech insurance company
 - 📱 **Co-founded [elapse](https://github.com/elapse-app/elapse)**: Deployed an app to make Vex robotics team more efficient at tournaments
-- 🏆 **6 years of VEX**: wrote ArkLib, a C++ motion control library. Five straight trips to Worlds, plus Create and Think awards
+- 🏆 **6 years of VEX**: Wrote ArkLib, a C++ motion control library. Five straight trips to Worlds, plus Create and Think awards
 - 🧪 **Lately**: Signapse (clinical ASL translator), Redact (blurs faces in video), AutoFleet (robots that plan around each other), and Signal (an LLM agent simulator)
+- 💡 **Currently**: Learning embedded (firmware, controls, and electrical)
 
 **Stack**&ensp;`C++` `Python` `TypeScript` `Dart` `ROS2` `STM32` `Flutter` `FastAPI` `OpenCV` `Docker` `Claude API`
 
